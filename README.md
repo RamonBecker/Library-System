@@ -1,7 +1,7 @@
 # SistemaBibliotecario
-Implementação de sistema de biblioteca 
 
-Projeto desenvolvido na displicina de Programação Estruturada.
+
+Projeto de sistema bibliotecário para a disciplina de Programação estruturada para o Instituto Federal de Santa Catarina
 
 -Objetivos:
 
