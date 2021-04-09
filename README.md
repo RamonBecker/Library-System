@@ -20,7 +20,7 @@ The library system aims to manipulate the data entered and create it in files. F
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```sh
-git clone https://github.com/RamonBecker/SistemaBibliotecario.git
+git clone https://github.com/RamonBecker/Library-System.git
 sudo apt update
 sudo apt install build-essential
 sudo apt-get install manpages-dev
@@ -32,7 +32,7 @@ gcc --version
 
 ```sh
 
-git clone https://github.com/RamonBecker/SistemaBibliotecario.git
+git clone https://github.com/RamonBecker/Library-System.git
 or install https://desktop.github.com/ 
 install: https://cygwin.com/install.html
 
